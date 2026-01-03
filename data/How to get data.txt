@@ -1,0 +1,21 @@
+## Dataset
+
+This project uses the dataset from the Kaggle competition:
+
+**Playground Series - Season 5, Episode 11**  
+https://www.kaggle.com/competitions/playground-series-s5e11
+
+Due to size and usage constraints, the dataset is not included in this repository.
+
+---
+
+## How to Download the Dataset
+
+1. Visit the Kaggle competition page at the link above.
+2. Log in to your Kaggle account.
+3. Click on the **Data** tab.
+4. Download the dataset files provided by Kaggle.
+5. Extract the downloaded files.
+6. Place the extracted CSV files into the `data/` directory of this project.
+
+After completing these steps, the notebooks in this repository can be run normally.
